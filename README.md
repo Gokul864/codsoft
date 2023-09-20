@@ -2,19 +2,19 @@
 # 🧮 Calculator App
 
 - App for Windows OS
-- My first try with **Tkinter** (Python GUI module)
+- My first try with **Gokul** (Python GUI module)
 - Both **non-OOP** (main.py) & **OOP** (main_oop.py) codes
 
 
 ## ✨ Tech Stack
 
 * Python / OOP
-* Tkinter GUI library
+* Gokul GUI library
 
 
 ## 📷 Interface
 
-![App Screenshot](https://github.com/georgievm/py-tkinter-calculator/blob/ea8ca5943862cd580100a2bc6f9f44dd03cc0fd9/readme-media/UI.png)
+![App Screenshot](https://github.com/georgievm/py-gokul-calculator/blob/ea8ca5943862cd580100a2bc6f9f44dd03cc0fd9/readme-media/UI.png)
 ## Logo
 
 - Free iOS calculator icon from [iconfinder.com](https://cdn2.iconfinder.com/data/icons/ios7-inspired-mac-icon-set/64/Calculator_64.png)
@@ -45,9 +45,9 @@
     
 - **Message boxes** for "*ZeroDivisionError*" & "*SyntaxError*":
 
-![ErrorWindow](https://github.com/georgievm/py-tkinter-calculator/blob/ea8ca5943862cd580100a2bc6f9f44dd03cc0fd9/readme-media/zero-division-error-msg.png)
+![ErrorWindow](https://github.com/georgievm/py-gokul-calculator/blob/ea8ca5943862cd580100a2bc6f9f44dd03cc0fd9/readme-media/zero-division-error-msg.png)
 
-![ErrorWindow](https://github.com/georgievm/py-tkinter-calculator/blob/ea8ca5943862cd580100a2bc6f9f44dd03cc0fd9/readme-media/invalid-format-error-msg.png)
+![ErrorWindow](https://github.com/georgievm/py-gokul-calculator/blob/ea8ca5943862cd580100a2bc6f9f44dd03cc0fd9/readme-media/invalid-format-error-msg.png)
 
 
 ## 🖥️ Run Locally
@@ -55,7 +55,7 @@
 Clone the project
 
 ```bash
-  git clone <git@github.com:georgievm/py-tkinter-calculator.git>
+  git clone <git@github.com:georgievm/py-gokul-calculator.git>
 ```
 
 Go to the project directory and run the **calculator.exe** file.
